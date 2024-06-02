@@ -1,0 +1,611 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 01 Jun 2024 16:35:40 at https://www.hsbc.co.uk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.hsbc.co.uk/ -O1 "C:\Users\hp\Desktop\hsbc" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:42:06	Warning: 	Link https://www.hsbc.co.uk/current-accounts/products/jade/private-bank/ not scanned (follow robots meta tag)
+16:56:40	Warning: 	Moved Permanently for https://www.hsbc.co.uk/electric-vehicles/
+16:56:40	Warning: 	File has moved from https://www.hsbc.co.uk/electric-vehicles/ to /sustainability/electric-vehicles/
+16:57:43	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/page-2/ (from https://www.hsbc.co.uk/current-accounts/)
+16:57:43	Warning: 	Moved Permanently for https://www.hsbc.co.uk/current-accounts/products/premier/
+16:57:43	Warning: 	File has moved from https://www.hsbc.co.uk/current-accounts/products/premier/ to /current-accounts/products/premier/day-to-day-banking/bank-account/
+16:58:37	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/savings/page-2/ (from https://www.hsbc.co.uk/savings/)
+16:58:52	Warning: 	Link https://www.hsbc.co.uk/forms/fixed-rate-saver-joint-app/ not scanned (follow robots meta tag)
+16:59:44	Warning: 	Link https://www.hsbc.co.uk/international/travel-money-card/apply-in-app/ not scanned (follow robots meta tag)
+16:59:46	Warning: 	Moved Permanently for https://www.hsbc.co.uk/international/travel-money-card/
+16:59:46	Warning: 	File has moved from https://www.hsbc.co.uk/international/travel-money-card/ to /current-accounts/products/global-money/
+17:00:53	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/page-2/ (from https://www.hsbc.co.uk/credit-cards/)
+17:00:53	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/page-3/ (from https://www.hsbc.co.uk/credit-cards/)
+17:01:14	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/credit-cards/compare/balance-transfer-credit-card/
+17:01:14	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/credit-cards/compare/balance-transfer-credit-card/ to https://www.hsbc.co.uk/credit-cards/compare/balance-transfer-credit-card/
+17:01:36	Warning: 	Link https://www.hsbc.co.uk/loans/apply-in-app/ not scanned (follow robots meta tag)
+17:02:41	Warning: 	Link https://www.hsbc.co.uk/help/card-support/instalments/ not scanned (follow robots meta tag)
+17:02:47	Warning: 	Link https://www.hsbc.co.uk/credit-cards/transferring-a-credit-card-balance/ not scanned (follow robots meta tag)
+17:03:42	Warning: 	Link https://www.hsbc.co.uk/forms/retirement-callback/ not scanned (follow robots meta tag)
+17:04:10	Warning: 	Moved Permanently for https://www.hsbc.co.uk/wealth/articles/
+17:04:10	Warning: 	File has moved from https://www.hsbc.co.uk/wealth/articles/ to /investments/
+17:04:16	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/financial-action-plan/*/ (from https://www.hsbc.co.uk/investments/financial-action-plan/)
+17:06:33	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/investment-essentials/ (from https://www.hsbc.co.uk/investments/existing-customers/)
+17:06:37	Warning: 	Moved Permanently for https://www.hsbc.co.uk/investments/existing-customers/supporting-your-needs/
+17:06:37	Warning: 	File has moved from https://www.hsbc.co.uk/investments/existing-customers/supporting-your-needs/ to /investments/existing-customers/investment-support/
+17:07:28	Warning: 	Moved Permanently for https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/what-is-a-safety-net/
+17:07:28	Warning: 	File has moved from https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/what-is-a-safety-net/ to /financial-fitness/growing-your-money/build-emergency-fund/
+17:07:31	Warning: 	Moved Permanently for https://www.hsbc.co.uk/wealth/articles/invest-or-repay-your-debts/
+17:07:31	Warning: 	File has moved from https://www.hsbc.co.uk/wealth/articles/invest-or-repay-your-debts/ to /investments/invest-or-repay-your-debts/
+17:07:35	Warning: 	Moved Permanently for https://www.hsbc.co.uk/savings/reasons-to-save/
+17:07:35	Warning: 	File has moved from https://www.hsbc.co.uk/savings/reasons-to-save/ to /savings/how-to-save-money/
+17:07:38	Warning: 	Moved Permanently for https://www.hsbc.co.uk/help/security-centre/jumio/
+17:07:38	Warning: 	File has moved from https://www.hsbc.co.uk/help/security-centre/jumio/ to /help/security-centre/verification/
+17:07:47	Warning: 	Moved Permanently for https://www.hsbc.co.uk/financial-education/first-steps/
+17:07:47	Warning: 	File has moved from https://www.hsbc.co.uk/financial-education/first-steps/ to /financial-education/teach-kids-about-money/
+17:09:33	Warning: 	Moved Permanently for https://www.hsbc.co.uk/help/life-events/unexpected-change/
+17:09:33	Warning: 	File has moved from https://www.hsbc.co.uk/help/life-events/unexpected-change/ to /help/life-events/
+17:09:36	Warning: 	Link https://www.hsbc.co.uk/forms/disclosure-form/ not scanned (follow robots meta tag)
+17:09:56	Warning: 	Moved Permanently for https://www.hsbc.co.uk/ways-to-bank/mobile/paym/
+17:09:56	Warning: 	File has moved from https://www.hsbc.co.uk/ways-to-bank/mobile/paym/ to /help/banking-made-easy/making-payments/
+17:09:59	Warning: 	Link https://www.hsbc.co.uk/configuration/app-redirect/ not scanned (follow robots meta tag)
+17:10:02	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/help/
+17:10:02	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/help/ to https://www.hsbc.co.uk/help/
+17:10:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/content/forms/af/hsbc/gb/digital-banking-help-tool-dte/digital-banking-help-tool/jcr:content/guideContainer.guideThankYouPage.html (from https://www.hsbc.co.uk/help/digital-banking-help-tool/)
+17:10:37	Warning: 	Moved Permanently for https://www.hsbc.co.uk/electric-vehicles/financing-electric-cars/
+17:10:37	Warning: 	File has moved from https://www.hsbc.co.uk/electric-vehicles/financing-electric-cars/ to /sustainability/electric-vehicles/financing-electric-cars/
+17:10:37	Warning: 	Moved Permanently for https://www.hsbc.co.uk/electric-vehicles/cost-calculator/
+17:10:37	Warning: 	File has moved from https://www.hsbc.co.uk/electric-vehicles/cost-calculator/ to /sustainability/electric-vehicles/cost-calculator/
+17:10:41	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/savings/personal-savings-allowance/*/ (from https://www.hsbc.co.uk/savings/personal-savings-allowance/)
+17:10:41	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/savings/is-my-money-safe/*/ (from https://www.hsbc.co.uk/savings/is-my-money-safe/)
+17:10:42	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/help/security-centre/cyber-security-how-to-bank-safely/*/ (from https://www.hsbc.co.uk/help/security-centre/cyber-security-how-to-bank-safely/)
+17:10:45	Warning: 	Moved Permanently for https://www.hsbc.co.uk/sustainability/mindful-spending/
+17:10:45	Warning: 	File has moved from https://www.hsbc.co.uk/sustainability/mindful-spending/ to /sustainability/
+17:10:48	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/how-to-set-long-term-financial-goals/*/ (from https://www.hsbc.co.uk/investments/how-to-set-long-term-financial-goals/)
+17:10:50	Warning: 	Moved Permanently for https://www.hsbc.co.uk/investments/new-to-investing-b/
+17:10:50	Warning: 	File has moved from https://www.hsbc.co.uk/investments/new-to-investing-b/ to /investments/new-to-investing/
+17:10:50	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/saving-vs-investing/*/ (from https://www.hsbc.co.uk/investments/saving-vs-investing/)
+17:10:55	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/help/security-centre/latest-scam-warnings/*/ (from https://www.hsbc.co.uk/help/security-centre/latest-scam-warnings/)
+17:10:57	Warning: 	Moved Permanently for https://www.hsbc.co.uk/ways-to-bank/online-banking/banking-at-home/
+17:10:57	Warning: 	File has moved from https://www.hsbc.co.uk/ways-to-bank/online-banking/banking-at-home/ to /ways-to-bank/
+17:11:54	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/registration/<p>HSBC Group |&nbsp; @ Copyright HSBC Group 2002-2023. All rights reserved<br></p> (from https://www.hsbc.co.uk/security/registration/)
+17:11:58	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/what-do-you-need-to-open-a-current-account/*/ (from https://www.hsbc.co.uk/current-accounts/what-do-you-need-to-open-a-current-account/)
+17:11:59	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/how-to-open-a-joint-bank-account/*/ (from https://www.hsbc.co.uk/current-accounts/how-to-open-a-joint-bank-account/)
+17:11:59	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/banking-terms/*/ (from https://www.hsbc.co.uk/current-accounts/banking-terms/)
+17:11:59	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/compare/
+17:11:59	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/compare/ to https://www.hsbc.co.uk/current-accounts/compare/
+17:11:59	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/choosing-a-bank-account/*/ (from https://www.hsbc.co.uk/current-accounts/choosing-a-bank-account/)
+17:12:00	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/overdrafts-explained/*/ (from https://www.hsbc.co.uk/current-accounts/overdrafts-explained/)
+17:12:00	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/what-is-an-account-number-and-sort-code/*/ (from https://www.hsbc.co.uk/current-accounts/what-is-an-account-number-and-sort-code/)
+17:12:02	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/what-is-a-bank-transfer/*/ (from https://www.hsbc.co.uk/current-accounts/what-is-a-bank-transfer/)
+17:12:02	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/what-is-a-standing-order/*/ (from https://www.hsbc.co.uk/current-accounts/what-is-a-standing-order/)
+17:12:02	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/what-is-a-direct-debit/*/ (from https://www.hsbc.co.uk/current-accounts/what-is-a-direct-debit/)
+17:12:02	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/what-is-faster-payments/*/ (from https://www.hsbc.co.uk/current-accounts/what-is-faster-payments/)
+17:12:08	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/online-transfer-mistake/*/ (from https://www.hsbc.co.uk/current-accounts/online-transfer-mistake/)
+17:12:18	Warning: 	Moved Permanently for https://www.hsbc.co.uk/cookie-policy/
+17:12:18	Warning: 	File has moved from https://www.hsbc.co.uk/cookie-policy/ to /cookie-notice/
+17:12:26	Warning: 	Link https://www.hsbc.co.uk/credit-cards/products/apply-in-app/ not scanned (follow robots meta tag)
+17:12:26	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/international/apply-for-a-uk-account/
+17:12:26	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/international/apply-for-a-uk-account/ to https://www.hsbc.co.uk/international/apply-for-a-uk-account/
+17:12:26	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/products/regular-saver/
+17:12:26	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/products/regular-saver/ to https://www.hsbc.co.uk/savings/products/regular-saver/
+17:12:26	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/international/travel-money-card/
+17:12:26	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/international/travel-money-card/ to https://www.hsbc.co.uk/international/travel-money-card/
+17:12:26	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/bank-account/
+17:12:26	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/bank-account/ to https://www.hsbc.co.uk/current-accounts/products/bank-account/
+17:12:26	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/premier/day-to-day-banking/bank-account/
+17:12:26	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/premier/day-to-day-banking/bank-account/ to https://www.hsbc.co.uk/current-accounts/products/premier/day-to-day-banking/bank-account/
+17:12:26	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/advance/
+17:12:26	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/advance/ to https://www.hsbc.co.uk/current-accounts/products/advance/
+17:12:26	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/basic-bank-account/
+17:12:26	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/basic-bank-account/ to https://www.hsbc.co.uk/current-accounts/products/basic-bank-account/
+17:12:26	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/bank-account-pay-monthly/
+17:12:26	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/bank-account-pay-monthly/ to https://www.hsbc.co.uk/current-accounts/products/bank-account-pay-monthly/
+17:12:26	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/student/
+17:12:26	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/student/ to https://www.hsbc.co.uk/current-accounts/products/student/
+17:12:26	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/international-student/
+17:12:26	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/international-student/ to https://www.hsbc.co.uk/current-accounts/products/international-student/
+17:12:26	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/graduate/
+17:12:26	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/graduate/ to https://www.hsbc.co.uk/current-accounts/products/graduate/
+17:12:26	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/help/banking-made-easy/help-us-identify-you/
+17:12:26	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/help/banking-made-easy/help-us-identify-you/ to https://www.hsbc.co.uk/help/banking-made-easy/help-us-identify-you/
+17:12:26	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/children/
+17:12:26	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/children/ to https://www.hsbc.co.uk/current-accounts/products/children/
+17:12:32	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/savings/isas-vs-types-of-savings-accounts/*/ (from https://www.hsbc.co.uk/savings/isas-vs-types-of-savings-accounts/)
+17:12:32	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/savings/what-is-an-isa-account/*/ (from https://www.hsbc.co.uk/savings/what-is-an-isa-account/)
+17:12:34	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/savings/savings-explained/*/ (from https://www.hsbc.co.uk/savings/savings-explained/)
+17:12:35	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/savings/how-to-save-for-a-housing-deposit/*/ (from https://www.hsbc.co.uk/savings/how-to-save-for-a-housing-deposit/)
+17:12:36	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/savings/how-to-top-up-ISA/*/ (from https://www.hsbc.co.uk/savings/how-to-top-up-ISA/)
+17:12:38	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/savings/how-to-save-money/*/ (from https://www.hsbc.co.uk/savings/how-to-save-money/)
+17:12:38	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/savings/fixed-rate-vs-variable-rate-explained/*/ (from https://www.hsbc.co.uk/savings/fixed-rate-vs-variable-rate-explained/)
+17:12:40	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/savings/money-saving-tips-for-couple/*/ (from https://www.hsbc.co.uk/savings/money-saving-tips-for-couple/)
+17:12:41	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/savings/how-to-set-and-achieve-savings-goals/*/ (from https://www.hsbc.co.uk/savings/how-to-set-and-achieve-savings-goals/)
+17:12:41	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/compare/online-bonus-savings-account/
+17:12:41	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/compare/online-bonus-savings-account/ to https://www.hsbc.co.uk/savings/compare/online-bonus-savings-account/
+17:12:41	Warning: 	Moved Permanently for https://www.hsbc.co.uk/wealth/articles/beginners-guide-to-investing/
+17:12:41	Warning: 	File has moved from https://www.hsbc.co.uk/wealth/articles/beginners-guide-to-investing/ to /investments/investing-for-beginners/
+17:12:41	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/products/fixed-rate-isa/
+17:12:41	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/products/fixed-rate-isa/ to https://www.hsbc.co.uk/savings/products/fixed-rate-isa/
+17:12:41	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/products/online-bonus-saver/
+17:12:41	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/products/online-bonus-saver/ to https://www.hsbc.co.uk/savings/products/online-bonus-saver/
+17:12:41	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/products/cash-isa/
+17:12:41	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/products/cash-isa/ to https://www.hsbc.co.uk/savings/products/cash-isa/
+17:12:41	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/
+17:12:41	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/current-accounts/products/ to https://www.hsbc.co.uk/current-accounts/products/
+17:12:41	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/products/
+17:12:41	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/products/ to https://www.hsbc.co.uk/savings/products/
+17:12:41	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/products/fixed-rate/
+17:12:41	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/products/fixed-rate/ to https://www.hsbc.co.uk/savings/products/fixed-rate/
+17:12:41	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/products/flexible-saver/
+17:12:41	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/products/flexible-saver/ to https://www.hsbc.co.uk/savings/products/flexible-saver/
+17:12:41	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/products/mysavings/
+17:12:41	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/products/mysavings/ to https://www.hsbc.co.uk/savings/products/mysavings/
+17:12:41	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/products/premier/
+17:12:41	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/savings/products/premier/ to https://www.hsbc.co.uk/savings/products/premier/
+17:12:45	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/what-is-an-iban-a-bic-and-a-swift-code/*/ (from https://www.hsbc.co.uk/international/what-is-an-iban-a-bic-and-a-swift-code/)
+17:12:45	Warning: 	Moved Permanently for https://www.hsbc.co.uk/international/most-common-reasons-for-sending-money-outside-the-uk/
+17:12:45	Warning: 	File has moved from https://www.hsbc.co.uk/international/most-common-reasons-for-sending-money-outside-the-uk/ to /international/tips-when-transferring-money-overseas/
+17:12:47	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/using-a-debit-card-abroad-vs-local-currency/*/ (from https://www.hsbc.co.uk/international/using-a-debit-card-abroad-vs-local-currency/)
+17:12:49	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/using-your-card-abroad-fees-and-charges-explained/*/ (from https://www.hsbc.co.uk/international/using-your-card-abroad-fees-and-charges-explained/)
+17:12:55	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/sending-money-to-uk/*/ (from https://www.hsbc.co.uk/international/sending-money-to-uk/)
+17:12:56	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/travel-guide-spain/*/ (from https://www.hsbc.co.uk/international/travel-guide-spain/)
+17:12:56	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/tips-when-transferring-money-overseas/*/ (from https://www.hsbc.co.uk/international/tips-when-transferring-money-overseas/)
+17:12:56	Warning: 	Moved Permanently for https://www.hsbc.co.uk/international/ways-to-fund-a-property-abroad/
+17:12:56	Warning: 	File has moved from https://www.hsbc.co.uk/international/ways-to-fund-a-property-abroad/ to /international/buying-a-property-abroad/
+17:12:58	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/checklist-for-moving-overseas/*/ (from https://www.hsbc.co.uk/international/checklist-for-moving-overseas/)
+17:13:48	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/"/ (from https://www.hsbc.co.uk/security/)
+17:13:48	Error: 	"Error when decompressing" (-1) at link https://www.hsbc.co.uk/security/<p>HSBC Group |  @ Copyright HSBC Group 2002-2024. All rights reserved</p> (from https://www.hsbc.co.uk/security/)
+17:13:49	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/current-account-benefits/*/ (from https://www.hsbc.co.uk/current-accounts/current-account-benefits/)
+17:13:49	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/understanding-your-balance/*/ (from https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/understanding-your-balance/)
+17:13:49	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/what-is-a-digital-wallet/*/ (from https://www.hsbc.co.uk/current-accounts/what-is-a-digital-wallet/)
+17:13:56	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/products/overdrafts/what-is-overdraft-repeat-use/*/ (from https://www.hsbc.co.uk/current-accounts/products/overdrafts/what-is-overdraft-repeat-use/)
+17:13:56	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/help/money-worries/what-is-a-loan-shark/*/ (from https://www.hsbc.co.uk/help/money-worries/what-is-a-loan-shark/)
+17:13:56	Error: 	"Error when decompressing" (-1) at link https://www.hsbc.co.uk/security (from https://www.hsbc.co.uk/help/banking-made-easy/closing-an-account/)
+17:13:56	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/help/banking-made-easy/understanding-your-statement/*/ (from https://www.hsbc.co.uk/help/banking-made-easy/understanding-your-statement/)
+17:13:56	Warning: 	Link https://www.hsbc.co.uk/card-reader/ not scanned (follow robots meta tag)
+17:13:57	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/products/overdrafts/how-to-get-out-of-your-overdraft/*/ (from https://www.hsbc.co.uk/current-accounts/products/overdrafts/how-to-get-out-of-your-overdraft/)
+17:13:57	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/how-to-improve-your-credit-score/*/ (from https://www.hsbc.co.uk/credit-cards/how-to-improve-your-credit-score/)
+17:14:03	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/what-is-a-0-percent-credit-card-for/*/ (from https://www.hsbc.co.uk/credit-cards/what-is-a-0-percent-credit-card-for/)
+17:14:06	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/how-to-use-a-balance-transfer/*/ (from https://www.hsbc.co.uk/credit-cards/how-to-use-a-balance-transfer/)
+17:14:06	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/credit-card-comparison/*/ (from https://www.hsbc.co.uk/credit-cards/credit-card-comparison/)
+17:14:07	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/how-do-credit-cards-work/*/ (from https://www.hsbc.co.uk/credit-cards/how-do-credit-cards-work/)
+17:14:08	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/avoid-credit-card-charges/*/ (from https://www.hsbc.co.uk/credit-cards/avoid-credit-card-charges/)
+17:14:08	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/how-to-check-your-credit-report/*/ (from https://www.hsbc.co.uk/credit-cards/how-to-check-your-credit-report/)
+17:14:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/what-is-apr/*/ (from https://www.hsbc.co.uk/credit-cards/what-is-apr/)
+17:14:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/what-is-a-credit-limit/*/ (from https://www.hsbc.co.uk/credit-cards/what-is-a-credit-limit/)
+17:14:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/credit-card-rewards-explained/*/ (from https://www.hsbc.co.uk/credit-cards/credit-card-rewards-explained/)
+17:14:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/what-is-a-credit-score/*/ (from https://www.hsbc.co.uk/credit-cards/what-is-a-credit-score/)
+17:14:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/content/forms/af/hsbc/gb/ways-to-borrow-v2/jcr:content/guideContainer.guideThankYouPage.html (from https://www.hsbc.co.uk/loans/ways-to-borrow/tool/)
+17:14:16	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/loans-explained/*/ (from https://www.hsbc.co.uk/loans/loans-explained/)
+17:14:16	Warning: 	Moved Permanently for https://www.hsbc.co.uk/loans/products/
+17:14:16	Warning: 	File has moved from https://www.hsbc.co.uk/loans/products/ to /loans/
+17:14:16	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/things-to-check-before-you-apply-for-a-loan/*/ (from https://www.hsbc.co.uk/loans/things-to-check-before-you-apply-for-a-loan/)
+17:14:16	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/how-to-get-a-credit-card/*/ (from https://www.hsbc.co.uk/credit-cards/how-to-get-a-credit-card/)
+17:14:18	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/what-is-home-equity/*/ (from https://www.hsbc.co.uk/mortgages/what-is-home-equity/)
+17:14:18	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/managing-debt/buy-now-pay-later-what-you-need-to-know/*/ (from https://www.hsbc.co.uk/financial-fitness/managing-debt/buy-now-pay-later-what-you-need-to-know/)
+17:14:18	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/pros-and-cons-of-borrowing-money-together/*/ (from https://www.hsbc.co.uk/loans/pros-and-cons-of-borrowing-money-together/)
+17:14:18	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/hard-vs-soft-credit-checks/*/ (from https://www.hsbc.co.uk/credit-cards/hard-vs-soft-credit-checks/)
+17:14:19	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/9-steps-to-financial-fitness/*/ (from https://www.hsbc.co.uk/financial-fitness/9-steps-to-financial-fitness/)
+17:14:19	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/how-to-manage-your-loan-repayments/*/ (from https://www.hsbc.co.uk/loans/how-to-manage-your-loan-repayments/)
+17:14:19	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/successful-loan-application-tips/*/ (from https://www.hsbc.co.uk/loans/successful-loan-application-tips/)
+17:14:22	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/what-is-an-unsecured-loan/*/ (from https://www.hsbc.co.uk/loans/what-is-an-unsecured-loan/)
+17:14:22	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/what-is-debt-consolidation/*/ (from https://www.hsbc.co.uk/loans/what-is-debt-consolidation/)
+17:14:23	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/home-improvement-loans-explained/*/ (from https://www.hsbc.co.uk/loans/home-improvement-loans-explained/)
+17:14:23	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/personal-loans-costs-and-risks/*/ (from https://www.hsbc.co.uk/loans/personal-loans-costs-and-risks/)
+17:14:23	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/what-is-hire-purchase/*/ (from https://www.hsbc.co.uk/loans/what-is-hire-purchase/)
+17:14:24	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/what-is-pcp-car-finance/*/ (from https://www.hsbc.co.uk/loans/what-is-pcp-car-finance/)
+17:14:24	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/how-does-leasing-a-car-work/*/ (from https://www.hsbc.co.uk/loans/how-does-leasing-a-car-work/)
+17:14:24	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/what-is-a-guarantor-loan/*/ (from https://www.hsbc.co.uk/loans/what-is-a-guarantor-loan/)
+17:14:24	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/quick-guide-to-personal-loans/*/ (from https://www.hsbc.co.uk/loans/quick-guide-to-personal-loans/)
+17:14:24	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/financing-a-car/*/ (from https://www.hsbc.co.uk/loans/financing-a-car/)
+17:14:24	Warning: 	Moved Permanently for https://www.hsbc.co.uk/sustainability/guide-to-electric-vehicles/
+17:14:24	Warning: 	File has moved from https://www.hsbc.co.uk/sustainability/guide-to-electric-vehicles/ to /electric-vehicles/
+17:14:25	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/help-with-mortgage-payments-as-living-costs-rise/*/ (from https://www.hsbc.co.uk/mortgages/help-with-mortgage-payments-as-living-costs-rise/)
+17:14:27	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/steps-to-buying-your-own-home/*/ (from https://www.hsbc.co.uk/mortgages/steps-to-buying-your-own-home/)
+17:14:28	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/what-is-remortgaging/*/ (from https://www.hsbc.co.uk/mortgages/what-is-remortgaging/)
+17:14:28	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/should-you-remortgage/*/ (from https://www.hsbc.co.uk/mortgages/should-you-remortgage/)
+17:14:28	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/how-to-switch-mortgage-rates/*/ (from https://www.hsbc.co.uk/mortgages/how-to-switch-mortgage-rates/)
+17:14:28	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/how-to-make-your-home-energy-efficient/*/ (from https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/how-to-make-your-home-energy-efficient/)
+17:14:29	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/can-a-low-epc-rating-affect-your-mortgage-application/*/ (from https://www.hsbc.co.uk/mortgages/can-a-low-epc-rating-affect-your-mortgage-application/)
+17:14:29	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/could-climate-change-impact-your-mortgage-application/*/ (from https://www.hsbc.co.uk/mortgages/could-climate-change-impact-your-mortgage-application/)
+17:14:32	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/types-of-mortgages/*/ (from https://www.hsbc.co.uk/mortgages/types-of-mortgages/)
+17:14:33	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/property-searches/*/ (from https://www.hsbc.co.uk/mortgages/property-searches/)
+17:14:35	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/what-is-stamp-duty/*/ (from https://www.hsbc.co.uk/mortgages/what-is-stamp-duty/)
+17:14:35	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/timeline-for-buying-a-home/*/ (from https://www.hsbc.co.uk/mortgages/timeline-for-buying-a-home/)
+17:14:35	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/what-is-decision-in-principle/*/ (from https://www.hsbc.co.uk/mortgages/what-is-decision-in-principle/)
+17:14:35	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/affordable-housing/*/ (from https://www.hsbc.co.uk/mortgages/affordable-housing/)
+17:14:52	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/how-to-deal-with-rising-living-costs/*/ (from https://www.hsbc.co.uk/financial-fitness/how-to-deal-with-rising-living-costs/)
+17:14:52	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/card-security-protection/*/ (from https://www.hsbc.co.uk/credit-cards/card-security-protection/)
+17:14:52	Warning: 	Link https://www.hsbc.co.uk/credit-cards/rewards/wine/ not scanned (follow robots meta tag)
+17:14:53	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/learn-to-invest-in-6-steps/*/ (from https://www.hsbc.co.uk/investments/learn-to-invest-in-6-steps/)
+17:14:53	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/investing-for-beginners/*/ (from https://www.hsbc.co.uk/investments/investing-for-beginners/)
+17:14:55	Warning: 	Moved Permanently for https://www.hsbc.co.uk/investments/isas/hsbc-global-strategy-portfolios/
+17:14:55	Warning: 	File has moved from https://www.hsbc.co.uk/investments/isas/hsbc-global-strategy-portfolios/ to /investments/products/hsbc-global-strategy-portfolios/
+17:14:55	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/is-investing-worth-the-risk/*/ (from https://www.hsbc.co.uk/investments/is-investing-worth-the-risk/)
+17:14:55	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/understanding-market-volatility/*/ (from https://www.hsbc.co.uk/investments/understanding-market-volatility/)
+17:15:01	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/what-is-the-ftse-100/*/ (from https://www.hsbc.co.uk/investments/what-is-the-ftse-100/)
+17:15:01	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/inflation-is-eating-your-savings/*/ (from https://www.hsbc.co.uk/investments/inflation-is-eating-your-savings/)
+17:15:01	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/is-now-a-good-time-to-invest/*/ (from https://www.hsbc.co.uk/investments/is-now-a-good-time-to-invest/)
+17:15:01	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/what-is-a-stocks-and-shares-isa/*/ (from https://www.hsbc.co.uk/investments/what-is-a-stocks-and-shares-isa/)
+17:15:01	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/invest-or-repay-your-debts/*/ (from https://www.hsbc.co.uk/investments/invest-or-repay-your-debts/)
+17:15:01	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/saving-for-children/*/ (from https://www.hsbc.co.uk/investments/saving-for-children/)
+17:15:02	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/growing-your-money/build-emergency-fund/*/ (from https://www.hsbc.co.uk/financial-fitness/growing-your-money/build-emergency-fund/)
+17:15:02	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/retirement/how-to-improve-your-financial-future/*/ (from https://www.hsbc.co.uk/retirement/how-to-improve-your-financial-future/)
+17:15:03	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/what-is-sustainable-investing/*/ (from https://www.hsbc.co.uk/investments/what-is-sustainable-investing/)
+17:15:03	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/the-real-benefits-of-financial-advice/*/ (from https://www.hsbc.co.uk/investments/the-real-benefits-of-financial-advice/)
+17:15:06	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/do-you-need-life-insurance/*/ (from https://www.hsbc.co.uk/insurance/do-you-need-life-insurance/)
+17:15:06	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/protecting-your-lifestyle/*/ (from https://www.hsbc.co.uk/insurance/protecting-your-lifestyle/)
+17:15:06	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/retirement/should-you-consolidate-your-pensions/"/libs/clientlibs/granite/richtext/resources/images/anchor.png" (from https://www.hsbc.co.uk/retirement/should-you-consolidate-your-pensions/)
+17:15:06	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/retirement/should-you-consolidate-your-pensions/*/ (from https://www.hsbc.co.uk/retirement/should-you-consolidate-your-pensions/)
+17:15:06	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/retirement/how-much-do-you-need-to-retire/*/ (from https://www.hsbc.co.uk/retirement/how-much-do-you-need-to-retire/)
+17:15:06	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/new-ways-to-save/*/ (from https://www.hsbc.co.uk/investments/new-ways-to-save/)
+17:15:08	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/retirement/retirement-checklist/*/ (from https://www.hsbc.co.uk/retirement/retirement-checklist/)
+17:15:08	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/retirement/how-women-can-boost-their-retirement-savings/*/ (from https://www.hsbc.co.uk/retirement/how-women-can-boost-their-retirement-savings/)
+17:15:08	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/retirement/not-saved-enough-for-retirement/*/ (from https://www.hsbc.co.uk/retirement/not-saved-enough-for-retirement/)
+17:15:08	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/retirement/should-you-invest-in-a-pension-or-an-isa/*/ (from https://www.hsbc.co.uk/retirement/should-you-invest-in-a-pension-or-an-isa/)
+17:15:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/retirement/what-is-a-pension/*/ (from https://www.hsbc.co.uk/retirement/what-is-a-pension/)
+17:15:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/retirement/what-is-a-workplace-pension/*/ (from https://www.hsbc.co.uk/retirement/what-is-a-workplace-pension/)
+17:15:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/retirement/how-to-invest-for-an-income-in-retirement/*/ (from https://www.hsbc.co.uk/retirement/how-to-invest-for-an-income-in-retirement/)
+17:15:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/retirement/living-your-best-life-in-later-life/*/ (from https://www.hsbc.co.uk/retirement/living-your-best-life-in-later-life/)
+17:15:09	Warning: 	Moved Permanently for https://www.hsbc.co.uk/wealth/insights/learn-to-invest/meet-life-goals/
+17:15:09	Warning: 	File has moved from https://www.hsbc.co.uk/wealth/insights/learn-to-invest/meet-life-goals/ to /wealth/insights/
+17:15:25	Warning: 	Moved Permanently for https://www.hsbc.co.uk/wealth/articles/is-now-a-good-time-to-invest/
+17:15:25	Warning: 	File has moved from https://www.hsbc.co.uk/wealth/articles/is-now-a-good-time-to-invest/ to /investments/is-now-a-good-time-to-invest/
+17:15:25	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/managing-debt/where-to-go-for-assistance/*/ (from https://www.hsbc.co.uk/financial-fitness/managing-debt/where-to-go-for-assistance/)
+17:15:25	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/managing-debt/how-to-repay-debts/*/ (from https://www.hsbc.co.uk/financial-fitness/managing-debt/how-to-repay-debts/)
+17:15:25	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/managing-money-tech-and-tools/*/ (from https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/managing-money-tech-and-tools/)
+17:15:25	Warning: 	Moved Permanently for https://www.hsbc.co.uk/wealth/articles/new-ways-to-save/
+17:15:25	Warning: 	File has moved from https://www.hsbc.co.uk/wealth/articles/new-ways-to-save/ to /investments/new-ways-to-save/
+17:15:25	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/how-much-life-insurance-do-i-need/*/ (from https://www.hsbc.co.uk/insurance/how-much-life-insurance-do-i-need/)
+17:15:25	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/types-of-insurance/*/ (from https://www.hsbc.co.uk/insurance/types-of-insurance/)
+17:15:27	Warning: 	Moved Permanently for https://www.hsbc.co.uk/wealth/insights/market-outlook/special-coverage/
+17:15:27	Warning: 	File has moved from https://www.hsbc.co.uk/wealth/insights/market-outlook/special-coverage/ to /wealth/insights/
+17:15:27	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/market-outlook/special-coverage/2024-05-24/*/ (from https://www.hsbc.co.uk/wealth/insights/market-outlook/special-coverage/2024-05-24/)
+17:15:27	Warning: 	Moved Permanently for https://www.hsbc.co.uk/wealth/insights/asset-class-views/investment-daily/
+17:15:27	Warning: 	File has moved from https://www.hsbc.co.uk/wealth/insights/asset-class-views/investment-daily/ to /wealth/insights/
+17:15:27	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/asset-class-views/investment-daily/2024-05-31/*/ (from https://www.hsbc.co.uk/wealth/insights/asset-class-views/investment-daily/2024-05-31/)
+17:15:27	Warning: 	Moved Permanently for https://www.hsbc.co.uk/wealth/insights/market-outlook/investment-outlook/
+17:15:27	Warning: 	File has moved from https://www.hsbc.co.uk/wealth/insights/market-outlook/investment-outlook/ to /wealth/insights/
+17:15:27	Warning: 	Moved Permanently for https://www.hsbc.co.uk/wealth/insights/asset-class-views/investment-monthly/
+17:15:27	Warning: 	File has moved from https://www.hsbc.co.uk/wealth/insights/asset-class-views/investment-monthly/ to /wealth/insights/
+17:15:53	Warning: 	Moved Permanently for https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/
+17:15:53	Warning: 	File has moved from https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/ to /wealth/insights/
+17:15:53	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/why-short-duration-bonds/*/ (from https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/why-short-duration-bonds/)
+17:15:53	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/2024-04-18/*/ (from https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/2024-04-18/)
+17:15:58	Warning: 	Moved Permanently for https://www.hsbc.co.uk/wealth/insights/market-outlook/uk-in-focus/
+17:15:58	Warning: 	File has moved from https://www.hsbc.co.uk/wealth/insights/market-outlook/uk-in-focus/ to /wealth/insights/
+17:15:58	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/market-outlook/uk-in-focus/2024-05/*/ (from https://www.hsbc.co.uk/wealth/insights/market-outlook/uk-in-focus/2024-05/)
+17:16:02	Warning: 	Moved Permanently for https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/
+17:16:02	Warning: 	File has moved from https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/ to /wealth/insights/
+17:16:02	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2024-05/*/ (from https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2024-05/)
+17:16:04	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/market-outlook/uk-in-focus/2024-04/*/ (from https://www.hsbc.co.uk/wealth/insights/market-outlook/uk-in-focus/2024-04/)
+17:16:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2024-04/*/ (from https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2024-04/)
+17:16:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2024-01/ (from https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2024-04/)
+17:16:17	Warning: 	Moved Permanently for https://www.hsbc.co.uk/wealth/insights/esg/learning-about-esg/
+17:16:17	Warning: 	File has moved from https://www.hsbc.co.uk/wealth/insights/esg/learning-about-esg/ to /wealth/insights/
+17:16:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/esg/learning-about-esg/2024-05-24/*/ (from https://www.hsbc.co.uk/wealth/insights/esg/learning-about-esg/2024-05-24/)
+17:16:17	Warning: 	Moved Permanently for https://www.hsbc.co.uk/wealth/insights/esg/why-esg-matters/
+17:16:17	Warning: 	File has moved from https://www.hsbc.co.uk/wealth/insights/esg/why-esg-matters/ to /wealth/insights/
+17:16:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/esg/why-esg-matters/2024-03-28/*/ (from https://www.hsbc.co.uk/wealth/insights/esg/why-esg-matters/2024-03-28/)
+17:16:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/esg/why-esg-matters/2024-01-09/ (from https://www.hsbc.co.uk/wealth/insights/esg/why-esg-matters/2024-03-28/)
+17:16:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/esg/learning-about-esg/why-batteries-are-key-to-the-green-transformation/ (from https://www.hsbc.co.uk/wealth/insights/esg/why-esg-matters/2024-03-28/)
+17:16:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/esg/learning-about-esg/progressing-esg-adoption-in-asia/*/ (from https://www.hsbc.co.uk/wealth/insights/esg/learning-about-esg/progressing-esg-adoption-in-asia/)
+17:16:25	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/esg/why-esg-matters/how-sustainable-is-your-morning-coffee/*/ (from https://www.hsbc.co.uk/wealth/insights/esg/why-esg-matters/how-sustainable-is-your-morning-coffee/)
+17:16:25	Warning: 	Moved Permanently for https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/
+17:16:25	Warning: 	File has moved from https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/ to /wealth/insights/
+17:16:25	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/2024-05-27/*/ (from https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/2024-05-27/)
+17:16:25	Warning: 	Moved Permanently for https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-trends/
+17:16:25	Warning: 	File has moved from https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-trends/ to /wealth/insights/
+17:16:25	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/2024-05-20/*/ (from https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/2024-05-20/)
+17:16:28	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/flash-2024-05-16/*/ (from https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/flash-2024-05-16/)
+17:16:36	Warning: 	Moved Permanently for https://www.hsbc.co.uk/wealth/insights/asset-class-views/investment-weekly/
+17:16:36	Warning: 	File has moved from https://www.hsbc.co.uk/wealth/insights/asset-class-views/investment-weekly/ to /wealth/insights/
+17:16:36	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/asset-class-views/investment-weekly/2024-05-27/*/ (from https://www.hsbc.co.uk/wealth/insights/asset-class-views/investment-weekly/2024-05-27/)
+17:16:36	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/asset-class-views/investment-weekly/2024-05-20/*/ (from https://www.hsbc.co.uk/wealth/insights/asset-class-views/investment-weekly/2024-05-20/)
+17:16:36	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/2024-05-13/*/ (from https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/2024-05-13/)
+17:16:38	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/market-outlook/special-coverage/2024-05-10/*/ (from https://www.hsbc.co.uk/wealth/insights/market-outlook/special-coverage/2024-05-10/)
+17:16:38	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/2024-05-06/*/ (from https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/2024-05-06/)
+17:16:39	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/market-outlook/special-coverage/2024-05-02/*/ (from https://www.hsbc.co.uk/wealth/insights/market-outlook/special-coverage/2024-05-02/)
+17:16:59	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/are-you-missing-out-on-child-trust-fund-cash/*/ (from https://www.hsbc.co.uk/investments/are-you-missing-out-on-child-trust-fund-cash/)
+17:17:01	Warning: 	Moved Permanently for https://www.hsbc.co.uk/insurance/products/life/
+17:17:01	Warning: 	File has moved from https://www.hsbc.co.uk/insurance/products/life/ to /insurance/life/
+17:17:01	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/what-is-critical-illness-insurance/*/ (from https://www.hsbc.co.uk/insurance/what-is-critical-illness-insurance/)
+17:17:01	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/what-insurance-do-you-need-with-your-mortgage/*/ (from https://www.hsbc.co.uk/insurance/what-insurance-do-you-need-with-your-mortgage/)
+17:17:01	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/what-to-consider-when-buying-insurance/*/ (from https://www.hsbc.co.uk/insurance/what-to-consider-when-buying-insurance/)
+17:17:01	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/content/dam/hsbc/en/images/icons/88x88/location.jpg (from https://www.hsbc.co.uk/insurance/existing-customers/)
+17:17:02	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/should-you-cancel-your-insurance-to-save-money/*/ (from https://www.hsbc.co.uk/insurance/should-you-cancel-your-insurance-to-save-money/)
+17:17:02	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/how-to-save-money-on-your-home-insurance/*/ (from https://www.hsbc.co.uk/insurance/how-to-save-money-on-your-home-insurance/)
+17:17:02	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/protect-your-home-against-emergencies/*/ (from https://www.hsbc.co.uk/insurance/protect-your-home-against-emergencies/)
+17:17:02	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/making-an-insurance-claim/*/ (from https://www.hsbc.co.uk/insurance/making-an-insurance-claim/)
+17:17:02	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/how-much-home-insurance-do-i-need/*/ (from https://www.hsbc.co.uk/insurance/how-much-home-insurance-do-i-need/)
+17:17:04	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/do-you-need-mobile-phone-insurance/*/ (from https://www.hsbc.co.uk/insurance/do-you-need-mobile-phone-insurance/)
+17:17:08	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/help/coronavirus/should-you-book-a-holiday/*/ (from https://www.hsbc.co.uk/help/coronavirus/should-you-book-a-holiday/)
+17:17:08	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/why-bother-with-travel-insurance-for-holidays/*/ (from https://www.hsbc.co.uk/insurance/why-bother-with-travel-insurance-for-holidays/)
+17:17:08	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/content/dam/hsbc/hbmt/images/mortgages/16-9/relaxing-family-home.jpg (from https://www.hsbc.co.uk/insurance/products/select-and-cover/)
+17:17:08	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/single-vs-joint-life-policy/*/ (from https://www.hsbc.co.uk/insurance/single-vs-joint-life-policy/)
+17:17:08	Warning: 	Moved Permanently for https://www.hsbc.co.uk/help/coronavirus/travel-guidance/
+17:17:08	Warning: 	File has moved from https://www.hsbc.co.uk/help/coronavirus/travel-guidance/ to /help/coronavirus/travel-guidance/whats-covered-under-hsbc-travel-insurance/
+17:17:08	Warning: 	Moved Permanently for https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/build-emergency-budget/
+17:17:08	Warning: 	File has moved from https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/build-emergency-budget/ to /financial-fitness/growing-your-money/build-emergency-fund/
+17:17:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/how-to-create-a-budget/*/ (from https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/how-to-create-a-budget/)
+17:17:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/spending-your-income/*/ (from https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/spending-your-income/)
+17:17:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/how-to-save-money-on-energy/*/ (from https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/how-to-save-money-on-energy/)
+17:17:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/could-you-be-missing-out-on-unclaimed-benefits/*/ (from https://www.hsbc.co.uk/financial-fitness/could-you-be-missing-out-on-unclaimed-benefits/)
+17:17:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/food-shopping-how-to-save-money-and-waste-less/*/ (from https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/food-shopping-how-to-save-money-and-waste-less/)
+17:17:14	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/managing-debt/stop-spending-more-than-you-earn/*/ (from https://www.hsbc.co.uk/financial-fitness/managing-debt/stop-spending-more-than-you-earn/)
+17:17:16	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/how-to-manage-bills/*/ (from https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/how-to-manage-bills/)
+17:17:16	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/savings/everyday-spending-hacks/*/ (from https://www.hsbc.co.uk/savings/everyday-spending-hacks/)
+17:17:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/getting-your-budget-back-on-track/*/ (from https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/getting-your-budget-back-on-track/)
+17:17:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/how-to-manage-on-a-reduced-income/*/ (from https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/how-to-manage-on-a-reduced-income/)
+17:17:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/managing-debt/should-you-save-or-repay-debt/*/ (from https://www.hsbc.co.uk/financial-fitness/managing-debt/should-you-save-or-repay-debt/)
+17:17:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/managing-debt/how-to-repay-debts-faster/*/ (from https://www.hsbc.co.uk/financial-fitness/managing-debt/how-to-repay-debts-faster/)
+17:17:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/how-to-talk-about-money/*/ (from https://www.hsbc.co.uk/financial-fitness/how-to-talk-about-money/)
+17:17:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/managing-debt/what-to-do-if-you-fall-behind-debt-repayments/*/ (from https://www.hsbc.co.uk/financial-fitness/managing-debt/what-to-do-if-you-fall-behind-debt-repayments/)
+17:18:13	Warning: 	Moved Permanently for https://www.hsbc.co.uk/students/managing-your-money-when-you-enter-the-world-of-work/
+17:18:13	Warning: 	File has moved from https://www.hsbc.co.uk/students/managing-your-money-when-you-enter-the-world-of-work/ to /financial-fitness/everyday-budgeting/
+17:18:13	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/new-beginnings/expanding-your-family/having-a-baby-on-a-budget/*/ (from https://www.hsbc.co.uk/new-beginnings/expanding-your-family/having-a-baby-on-a-budget/)
+17:18:13	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/new-beginnings/getting-married/tips-for-planning-a-wedding/*/ (from https://www.hsbc.co.uk/new-beginnings/getting-married/tips-for-planning-a-wedding/)
+17:18:13	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/new-beginnings/getting-married/merging-your-money/*/ (from https://www.hsbc.co.uk/new-beginnings/getting-married/merging-your-money/)
+17:18:13	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/tax/what-is-the-marriage-allowance/*/ (from https://www.hsbc.co.uk/tax/what-is-the-marriage-allowance/)
+17:18:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/setting-up-your-finances-abroad/*/ (from https://www.hsbc.co.uk/international/setting-up-your-finances-abroad/)
+17:18:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/buying-a-property-abroad/*/ (from https://www.hsbc.co.uk/international/buying-a-property-abroad/)
+17:18:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/students/university-survival-tips/*/ (from https://www.hsbc.co.uk/students/university-survival-tips/)
+17:18:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/student-banking-need-to-knows/*/ (from https://www.hsbc.co.uk/current-accounts/student-banking-need-to-knows/)
+17:18:17	Warning: 	Moved Permanently for https://www.hsbc.co.uk/insurance/products/home/
+17:18:17	Warning: 	File has moved from https://www.hsbc.co.uk/insurance/products/home/ to /insurance/home/
+17:18:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/do-you-need-student-insurance/*/ (from https://www.hsbc.co.uk/insurance/do-you-need-student-insurance/)
+17:18:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/students/budgeting-for-student-life/*/ (from https://www.hsbc.co.uk/students/budgeting-for-student-life/)
+17:18:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/students/making-your-money-go-further-at-uni/*/ (from https://www.hsbc.co.uk/students/making-your-money-go-further-at-uni/)
+17:18:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/students/how-to-save-money-at-the-supermarket/*/ (from https://www.hsbc.co.uk/students/how-to-save-money-at-the-supermarket/)
+17:18:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/students/understanding-your-student-overdraft/*/ (from https://www.hsbc.co.uk/students/understanding-your-student-overdraft/)
+17:18:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/students/borrowing-money-as-a-student/*/ (from https://www.hsbc.co.uk/students/borrowing-money-as-a-student/)
+17:18:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/should-you-get-a-student-credit-card/*/ (from https://www.hsbc.co.uk/credit-cards/should-you-get-a-student-credit-card/)
+17:18:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/students/students-and-the-rising-cost-of-living/*/ (from https://www.hsbc.co.uk/students/students-and-the-rising-cost-of-living/)
+17:18:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/student-finance-need-to-knows/*/ (from https://www.hsbc.co.uk/loans/student-finance-need-to-knows/)
+17:18:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/students/how-to-build-your-credit-score-as-a-student/*/ (from https://www.hsbc.co.uk/students/how-to-build-your-credit-score-as-a-student/)
+17:18:17	Warning: 	Moved Permanently for https://www.hsbc.co.uk/help/life-events/health-accessibility/
+17:18:17	Warning: 	File has moved from https://www.hsbc.co.uk/help/life-events/health-accessibility/ to /help/life-events/
+17:18:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/how-does-banking-work-in-the-uk/*/ (from https://www.hsbc.co.uk/international/how-does-banking-work-in-the-uk/)
+17:18:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/online/bereavement/page/base/partials/headlibs/ (from https://www.hsbc.co.uk/online/bereavement/)
+17:18:17	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/etc/designs/dpws/common/favicons/browserconfig.xml (from https://www.hsbc.co.uk/online/bereavement/)
+17:18:51	Warning: 	Moved Permanently for https://www.hsbc.co.uk/help/third-party-access/
+17:18:51	Warning: 	File has moved from https://www.hsbc.co.uk/help/third-party-access/ to /help/life-events/assisting-someone-with-their-money/
+17:18:51	Warning: 	Moved Permanently for https://www.hsbc.co.uk/insurance/products/home/support/
+17:18:51	Warning: 	File has moved from https://www.hsbc.co.uk/insurance/products/home/support/ to /insurance/home/claims/
+17:18:51	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/understanding-your-spending/*/ (from https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/understanding-your-spending/)
+17:18:51	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/government-budget-what-does-it-mean-for-you/*/ (from https://www.hsbc.co.uk/financial-fitness/government-budget-what-does-it-mean-for-you/)
+17:18:51	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/why-do-interest-rates-change/*/ (from https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/why-do-interest-rates-change/)
+17:18:51	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/how-to-manage-financial-anxiety/*/ (from https://www.hsbc.co.uk/financial-fitness/how-to-manage-financial-anxiety/)
+17:18:51	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/help/card-support/dispute-transaction/
+17:18:51	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/help/card-support/dispute-transaction/ to https://www.hsbc.co.uk/help/card-support/dispute-transaction/
+17:18:51	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/content/forms/af/hsbc/gb/dtes/help-disputes-dte/jcr:content/guideContainer.guideThankYouPage.html (from https://www.hsbc.co.uk/help/disputes-tool/)
+17:18:51	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/what-can-you-claim-section-75/*/ (from https://www.hsbc.co.uk/credit-cards/what-can-you-claim-section-75/)
+17:18:52	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/help/security-centre/cryptocurrency-fraud-real-life-story/*/ (from https://www.hsbc.co.uk/help/security-centre/cryptocurrency-fraud-real-life-story/)
+17:18:53	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/should-you-increase-your-credit-card-limit/*/ (from https://www.hsbc.co.uk/credit-cards/should-you-increase-your-credit-card-limit/)
+17:18:53	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/help/security-centre/is-digital-banking-secure/*/ (from https://www.hsbc.co.uk/help/security-centre/is-digital-banking-secure/)
+17:18:53	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/content/forms/af/hsbc/gb/dtes/making-payments/jcr:content/guideContainer.guideThankYouPage.html (from https://www.hsbc.co.uk/help/making-payments/)
+17:18:55	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/sustainability/budget-friendly-ways-to-improve-home-energy-efficiency/*/ (from https://www.hsbc.co.uk/sustainability/budget-friendly-ways-to-improve-home-energy-efficiency/)
+17:18:55	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/sustainability1/ (from https://www.hsbc.co.uk/sustainability/sustainable-choices-that-could-save-you-money/)
+17:18:55	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/sustainability/sustainable-choices-that-could-save-you-money/*/ (from https://www.hsbc.co.uk/sustainability/sustainable-choices-that-could-save-you-money/)
+17:18:55	Warning: 	Moved Permanently for https://www.hsbc.co.uk/sustainability/recycled-plastic-payment-cards/
+17:18:55	Warning: 	File has moved from https://www.hsbc.co.uk/sustainability/recycled-plastic-payment-cards/ to /sustainability/
+17:18:55	Warning: 	Moved Permanently for https://www.hsbc.co.uk/electric-vehicles/electric-car-lease/
+17:18:55	Warning: 	File has moved from https://www.hsbc.co.uk/electric-vehicles/electric-car-lease/ to /sustainability/electric-vehicles/electric-car-lease/
+17:18:55	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/sustainability/improving-your-homes-epc-rating/*/ (from https://www.hsbc.co.uk/sustainability/improving-your-homes-epc-rating/)
+17:18:55	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/sustainability/electric-vehicles/electric-vehicles-what-to-consider/*/ (from https://www.hsbc.co.uk/sustainability/electric-vehicles/electric-vehicles-what-to-consider/)
+17:18:55	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/help/security-centre/how-to-create-a-strong-password/*/ (from https://www.hsbc.co.uk/help/security-centre/how-to-create-a-strong-password/)
+17:18:55	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/help/security-centre/how-to-avoid-holiday-scams/*/ (from https://www.hsbc.co.uk/help/security-centre/how-to-avoid-holiday-scams/)
+17:18:56	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/students/paying-off-your-student-loan-early/*/ (from https://www.hsbc.co.uk/students/paying-off-your-student-loan-early/)
+17:18:56	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/help/security-centre/purchase-scams-real-life-story/*/ (from https://www.hsbc.co.uk/help/security-centre/purchase-scams-real-life-story/)
+17:18:56	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/help/security-centre/token-activation-fraud/*/ (from https://www.hsbc.co.uk/help/security-centre/token-activation-fraud/)
+17:18:57	Warning: 	Warning: store application/octet-stream without scan: C:/Users/hp/Desktop/hsbc/www.hsbc.co.uk/etc/designs/dspwebauth-headerfooter/assets/fonts/UniversNextforHSBC-Bold/UniversNextforHSBC-Bold.svg
+17:18:57	Warning: 	Warning: store application/octet-stream without scan: C:/Users/hp/Desktop/hsbc/www.hsbc.co.uk/etc/designs/dspwebauth-headerfooter/assets/fonts/UniversNextforHSBC-Regular/UniversNextforHSBC-Regular.svg
+17:18:57	Warning: 	Warning: store application/octet-stream without scan: C:/Users/hp/Desktop/hsbc/www.hsbc.co.uk/etc/designs/dspwebauth-headerfooter/assets/fonts/UniversNextforHSBC-Light/UniversNextforHSBC-Light.svg
+17:18:57	Warning: 	Warning: store application/octet-stream without scan: C:/Users/hp/Desktop/hsbc/www.hsbc.co.uk/etc/designs/dspwebauth-headerfooter/assets/fonts/UniversNextforHSBC-Medium/UniversNextforHSBC-Medium.svg
+17:18:57	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/registration/true/ (from https://www.hsbc.co.uk/etc/designs/esfregistrationappv3/jquery.js)
+17:18:57	Warning: 	Warning: store application/octet-stream without scan: C:/Users/hp/Desktop/hsbc/www.hsbc.co.uk/etc/designs/esfregistrationappv3/js-files/assets/statusInformation_onLight.55abdb211c2c9990e5a0f9eb1e47b0ed.svg
+17:18:58	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/registration/GET/ (from https://www.hsbc.co.uk/etc/designs/esfregistrationappv3/js-files/polyfills.c0d44c33b6fb10b71340.js)
+17:18:58	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/registration/In this configuration Angular requires Zone.js (from https://www.hsbc.co.uk/etc/designs/esfregistrationappv3/js-files/polyfills.c0d44c33b6fb10b71340.js)
+17:18:58	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/registration/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://www.hsbc.co.uk/etc/designs/esfregistrationappv3/js-files/polyfills.c0d44c33b6fb10b71340.js)
+17:18:58	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/registration/Trident/ (from https://www.hsbc.co.uk/etc/designs/esfregistrationappv3/js-files/polyfills.c0d44c33b6fb10b71340.js)
+17:18:58	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/registration/Edge/ (from https://www.hsbc.co.uk/etc/designs/esfregistrationappv3/js-files/polyfills.c0d44c33b6fb10b71340.js)
+17:18:58	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/registration/this.location,!0 (from https://www.hsbc.co.uk/etc/designs/esfregistrationappv3/js-files/main.c0d44c33b6fb10b71340.js)
+17:18:58	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/registration/e.format(t||{} (from https://www.hsbc.co.uk/etc/designs/esfregistrationappv3/js-files/main.c0d44c33b6fb10b71340.js)
+17:18:58	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/registration/e,!0/ (from https://www.hsbc.co.uk/etc/designs/esfregistrationappv3/js-files/main.c0d44c33b6fb10b71340.js)
+17:18:58	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/registration/e,n,r/ (from https://www.hsbc.co.uk/etc/designs/esfregistrationappv3/js-files/main.c0d44c33b6fb10b71340.js)
+17:18:58	Warning: 	Moved Permanently for https://www.hsbc.co.uk/security/registration/^//
+17:18:58	Warning: 	File has moved from https://www.hsbc.co.uk/security/registration/^// to https://www.hsbc.co.uk/security/registration/%5e/
+17:18:58	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/registration/POST/ (from https://www.hsbc.co.uk/etc/designs/esfregistrationappv3/clientlib-all.min.8ee859cb273cb69820a46dfdf45f1d0f.js)
+17:18:58	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/eumcollector/adrum.gif? (from https://www.hsbc.co.uk/etc/designs/esfregistrationappv3/clientlib-all.min.8ee859cb273cb69820a46dfdf45f1d0f.js)
+17:18:58	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/registration/document.URL (from https://www.hsbc.co.uk/etc/designs/esfregistrationappv3/clientlib-all.min.8ee859cb273cb69820a46dfdf45f1d0f.js)
+17:18:58	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/registration/this.Sd.url (from https://www.hsbc.co.uk/etc/designs/esfregistrationappv3/clientlib-all.min.8ee859cb273cb69820a46dfdf45f1d0f.js)
+17:18:58	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/switching-current-accounts/*/ (from https://www.hsbc.co.uk/current-accounts/switching-current-accounts/)
+17:18:58	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/benefits-of-switching-current-accounts/*/ (from https://www.hsbc.co.uk/current-accounts/benefits-of-switching-current-accounts/)
+17:19:00	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/tax/what-is-a-p60/*/ (from https://www.hsbc.co.uk/tax/what-is-a-p60/)
+17:19:00	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/5-reasons-to-care-about-your-credit-score/*/ (from https://www.hsbc.co.uk/financial-fitness/5-reasons-to-care-about-your-credit-score/)
+17:19:00	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/what-is-a-bacs-payment/*/ (from https://www.hsbc.co.uk/current-accounts/what-is-a-bacs-payment/)
+17:19:00	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/what-is-a-chaps-payment/*/ (from https://www.hsbc.co.uk/current-accounts/what-is-a-chaps-payment/)
+17:19:00	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/help/security-centre/what-is-an-authorised-push-payment-scam/*/ (from https://www.hsbc.co.uk/help/security-centre/what-is-an-authorised-push-payment-scam/)
+17:19:03	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/etc.clientlibs/ico-framework/clientlibs/clientlib-common/resources/logo192.png (from https://www.hsbc.co.uk/current-accounts/products/international/eligibility/?product=premier-account)
+17:19:04	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/living-in-the-uk/moving-to-the-uk-guide/*/ (from https://www.hsbc.co.uk/international/living-in-the-uk/moving-to-the-uk-guide/)
+17:19:06	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/savings/what-is-compound-interest/*/ (from https://www.hsbc.co.uk/savings/what-is-compound-interest/)
+17:19:06	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/costs-of-buying-a-property/*/ (from https://www.hsbc.co.uk/mortgages/costs-of-buying-a-property/)
+17:19:06	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/how-make-offer-house/*/ (from https://www.hsbc.co.uk/mortgages/how-make-offer-house/)
+17:19:06	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/savings/help-to-buy-isas-what-to-do-now/*/ (from https://www.hsbc.co.uk/savings/help-to-buy-isas-what-to-do-now/)
+17:19:06	Warning: 	Moved Permanently for https://www.hsbc.co.uk/savings/save-money-while-helping-save-planet/
+17:19:06	Warning: 	File has moved from https://www.hsbc.co.uk/savings/save-money-while-helping-save-planet/ to /savings/
+17:19:06	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/savings/challenges-to-help-you-save-money/*/ (from https://www.hsbc.co.uk/savings/challenges-to-help-you-save-money/)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/what-is-a-joint-loan/*/ (from https://www.hsbc.co.uk/loans/what-is-a-joint-loan/)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/bank-financial-jargon/*/ (from https://www.hsbc.co.uk/international/bank-financial-jargon/)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/funding-a-degree-in-the-uk/*/ (from https://www.hsbc.co.uk/international/funding-a-degree-in-the-uk/)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/should-you-pay-in-local-currency/*/ (from https://www.hsbc.co.uk/international/should-you-pay-in-local-currency/)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/managing-your-money-travelling/*/ (from https://www.hsbc.co.uk/international/managing-your-money-travelling/)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/understanding-travel-money/*/ (from https://www.hsbc.co.uk/international/understanding-travel-money/)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/how-do-exchange-rates-work/*/ (from https://www.hsbc.co.uk/international/how-do-exchange-rates-work/)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/what-is-a-currency-account/*/ (from https://www.hsbc.co.uk/international/what-is-a-currency-account/)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/what-is-an-ehic-and-ghic/*/ (from https://www.hsbc.co.uk/international/what-is-an-ehic-and-ghic/)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/international/make-sure-you-and-your-money-are-holiday-ready/*/ (from https://www.hsbc.co.uk/international/make-sure-you-and-your-money-are-holiday-ready/)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/how-to-get-your-first-credit-card/*/ (from https://www.hsbc.co.uk/credit-cards/how-to-get-your-first-credit-card/)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/true/ (from https://www.hsbc.co.uk/etc/designs/DSP_SaaS_Milestone-Global/jquery.js)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/GET/ (from https://www.hsbc.co.uk/etc/designs/DSP_SaaS_Milestone-Global/js-files/Transmitpolyfills.a162404b713e3aa9bad5.js)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/In this configuration Angular requires Zone.js (from https://www.hsbc.co.uk/etc/designs/DSP_SaaS_Milestone-Global/js-files/Transmitpolyfills.a162404b713e3aa9bad5.js)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/Trident/ (from https://www.hsbc.co.uk/etc/designs/DSP_SaaS_Milestone-Global/js-files/Transmitpolyfills.a162404b713e3aa9bad5.js)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/Edge/ (from https://www.hsbc.co.uk/etc/designs/DSP_SaaS_Milestone-Global/js-files/Transmitpolyfills.a162404b713e3aa9bad5.js)
+17:19:09	Warning: 	Warning: store application/octet-stream without scan: C:/Users/hp/Desktop/hsbc/www.hsbc.co.uk/etc/designs/DSP_SaaS_Milestone-Global/assets/fonts/UniversNextforHSBC-Bold/UniversNextforHSBC-Bold.svg
+17:19:09	Warning: 	Warning: store application/octet-stream without scan: C:/Users/hp/Desktop/hsbc/www.hsbc.co.uk/etc/designs/DSP_SaaS_Milestone-Global/assets/fonts/UniversNextforHSBC-Regular/UniversNextforHSBC-Regular.svg
+17:19:09	Warning: 	Warning: store application/octet-stream without scan: C:/Users/hp/Desktop/hsbc/www.hsbc.co.uk/etc/designs/DSP_SaaS_Milestone-Global/assets/fonts/UniversNextforHSBC-Light/UniversNextforHSBC-Light.svg
+17:19:09	Warning: 	Warning: store application/octet-stream without scan: C:/Users/hp/Desktop/hsbc/www.hsbc.co.uk/etc/designs/DSP_SaaS_Milestone-Global/assets/fonts/UniversNextforHSBC-Medium/UniversNextforHSBC-Medium.svg
+17:19:09	Warning: 	Moved Permanently for https://www.hsbc.co.uk/security/^//
+17:19:09	Warning: 	File has moved from https://www.hsbc.co.uk/security/^// to https://www.hsbc.co.uk/security/%5e/
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/POST/ (from https://www.hsbc.co.uk/etc/designs/DSP_SaaS_Milestone-Global/clientlib-all.min.a574c7589ca231816f8aae45822dcbf5.js)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/document.URL (from https://www.hsbc.co.uk/etc/designs/DSP_SaaS_Milestone-Global/clientlib-all.min.a574c7589ca231816f8aae45822dcbf5.js)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/this.Sd.url (from https://www.hsbc.co.uk/etc/designs/DSP_SaaS_Milestone-Global/clientlib-all.min.a574c7589ca231816f8aae45822dcbf5.js)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/current-accounts/how-to-get-salary-paid-into-account/*/ (from https://www.hsbc.co.uk/current-accounts/how-to-get-salary-paid-into-account/)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/credit-cards-vs-debit-cards/*/ (from https://www.hsbc.co.uk/credit-cards/credit-cards-vs-debit-cards/)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/credit-card-vs-loans/*/ (from https://www.hsbc.co.uk/loans/credit-card-vs-loans/)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/making-good-financial-decisions/*/ (from https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/making-good-financial-decisions/)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/tips-for-using-your-credit-card/*/ (from https://www.hsbc.co.uk/credit-cards/tips-for-using-your-credit-card/)
+17:19:09	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/tips-for-paying-off-your-credit-card/*/ (from https://www.hsbc.co.uk/credit-cards/tips-for-paying-off-your-credit-card/)
+17:19:10	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/ways-to-help-you-get-a-mortgage/*/ (from https://www.hsbc.co.uk/mortgages/ways-to-help-you-get-a-mortgage/)
+17:19:10	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/what-is-an-interest-free-period/*/ (from https://www.hsbc.co.uk/credit-cards/what-is-an-interest-free-period/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/what-is-a-balance-transfer/*/ (from https://www.hsbc.co.uk/credit-cards/what-is-a-balance-transfer/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/how-many-credit-cards-should-you-have/*/ (from https://www.hsbc.co.uk/credit-cards/how-many-credit-cards-should-you-have/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/does-a-balance-transfer-affect-credit-score/*/ (from https://www.hsbc.co.uk/credit-cards/does-a-balance-transfer-affect-credit-score/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/what-to-do-end-balance-transfer/*/ (from https://www.hsbc.co.uk/credit-cards/what-to-do-end-balance-transfer/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/using-your-credit-card-overseas/*/ (from https://www.hsbc.co.uk/credit-cards/using-your-credit-card-overseas/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/credit-cards/credit-card-myths-dispelled/*/ (from https://www.hsbc.co.uk/credit-cards/credit-card-myths-dispelled/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/different-loan-types/*/ (from https://www.hsbc.co.uk/loans/different-loan-types/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/secured-vs-unsecured-loans-explained/*/ (from https://www.hsbc.co.uk/loans/secured-vs-unsecured-loans-explained/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/what-is-a-secured-loan/*/ (from https://www.hsbc.co.uk/loans/what-is-a-secured-loan/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/paying-your-mortgage-off-early/*/ (from https://www.hsbc.co.uk/mortgages/paying-your-mortgage-off-early/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/what-is-negative-equity/*/ (from https://www.hsbc.co.uk/mortgages/what-is-negative-equity/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/managing-debt/dealing-with-an-unexpected-expense/*/ (from https://www.hsbc.co.uk/financial-fitness/managing-debt/dealing-with-an-unexpected-expense/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/managing-debt/declined-for-lending/*/ (from https://www.hsbc.co.uk/financial-fitness/managing-debt/declined-for-lending/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/what-is-a-mortgage-valuation/*/ (from https://www.hsbc.co.uk/mortgages/what-is-a-mortgage-valuation/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/getting-a-loft-conversion/*/ (from https://www.hsbc.co.uk/loans/getting-a-loft-conversion/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/loans/buying-a-second-hand-car/*/ (from https://www.hsbc.co.uk/loans/buying-a-second-hand-car/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/choosing-a-location/*/ (from https://www.hsbc.co.uk/mortgages/choosing-a-location/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/moving-day-checklist/*/ (from https://www.hsbc.co.uk/mortgages/moving-day-checklist/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/what-are-landlords-responsibilities/*/ (from https://www.hsbc.co.uk/mortgages/what-are-landlords-responsibilities/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/buying-home-tips/*/ (from https://www.hsbc.co.uk/mortgages/buying-home-tips/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/how-much-mortgage-could-you-afford/*/ (from https://www.hsbc.co.uk/mortgages/how-much-mortgage-could-you-afford/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/purchasing-a-buy-to-let-property/*/ (from https://www.hsbc.co.uk/mortgages/purchasing-a-buy-to-let-property/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/getting-a-mortgage-when-self-employed/*/ (from https://www.hsbc.co.uk/mortgages/getting-a-mortgage-when-self-employed/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/difference-between-freehold-and-leasehold/*/ (from https://www.hsbc.co.uk/mortgages/difference-between-freehold-and-leasehold/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/what-you-need-mortgages-application/*/ (from https://www.hsbc.co.uk/mortgages/what-you-need-mortgages-application/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/should-you-rent-or-buy-home/*/ (from https://www.hsbc.co.uk/mortgages/should-you-rent-or-buy-home/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/what-to-look-for-in-a-buy-to-let-property/*/ (from https://www.hsbc.co.uk/mortgages/what-to-look-for-in-a-buy-to-let-property/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/what-is-concentration-risk/*/ (from https://www.hsbc.co.uk/mortgages/what-is-concentration-risk/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/what-is-loan-to-value/*/ (from https://www.hsbc.co.uk/mortgages/what-is-loan-to-value/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/what-is-an-interest-only-mortgage/*/ (from https://www.hsbc.co.uk/mortgages/what-is-an-interest-only-mortgage/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/what-is-the-process-of-selling-a-house/*/ (from https://www.hsbc.co.uk/mortgages/what-is-the-process-of-selling-a-house/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/mortgages/what-is-shared-ownership/*/ (from https://www.hsbc.co.uk/mortgages/what-is-shared-ownership/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/how-to-compare-home-insurance-policies/*/ (from https://www.hsbc.co.uk/insurance/how-to-compare-home-insurance-policies/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/what-is-capital-gains-tax/*/ (from https://www.hsbc.co.uk/investments/what-is-capital-gains-tax/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/myths-about-investing/*/ (from https://www.hsbc.co.uk/investments/myths-about-investing/)
+17:19:11	Warning: 	Moved Permanently for https://www.hsbc.co.uk/investments/products-and-services/global-investment-centre/funds/
+17:19:11	Warning: 	File has moved from https://www.hsbc.co.uk/investments/products-and-services/global-investment-centre/funds/ to /investments/products/global-investment-centre/funds/
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/what-is-a-dividend/*/ (from https://www.hsbc.co.uk/investments/what-is-a-dividend/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/what-is-an-index-fund/*/ (from https://www.hsbc.co.uk/investments/what-is-an-index-fund/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/what-is-an-etf/*/ (from https://www.hsbc.co.uk/investments/what-is-an-etf/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/investments/what-is-an-investment-trust/*/ (from https://www.hsbc.co.uk/investments/what-is-an-investment-trust/)
+17:19:11	Warning: 	Moved Permanently for https://www.hsbc.co.uk/savings/how-to-save-money-working-from-home/
+17:19:11	Warning: 	File has moved from https://www.hsbc.co.uk/savings/how-to-save-money-working-from-home/ to /savings/how-to-save-money/
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/retirement/simple-ways-to-save-for-your-future/*/ (from https://www.hsbc.co.uk/retirement/simple-ways-to-save-for-your-future/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/retirement/when-life-goes-on/*/ (from https://www.hsbc.co.uk/retirement/when-life-goes-on/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/retirement/how-to-manage-your-inheritance-tax-bill/*/ (from https://www.hsbc.co.uk/retirement/how-to-manage-your-inheritance-tax-bill/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/retirement/how-to-manage-your-pension-pot-in-retirement/*/ (from https://www.hsbc.co.uk/retirement/how-to-manage-your-pension-pot-in-retirement/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/what-is-the-pension-credit/*/ (from https://www.hsbc.co.uk/financial-fitness/what-is-the-pension-credit/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/2023-06-26/*/ (from https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/2023-06-26/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/2023-06-16/*/ (from https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/2023-06-16/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/what-is-insurance-excess/*/ (from https://www.hsbc.co.uk/insurance/what-is-insurance-excess/)
+17:19:11	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/market-outlook/special-coverage/2024-03-22/*/ (from https://www.hsbc.co.uk/wealth/insights/market-outlook/special-coverage/2024-03-22/)
+17:19:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/market-outlook/special-coverage/2024-02-02/ (from https://www.hsbc.co.uk/wealth/insights/market-outlook/investment-outlook/2024-03/)
+17:19:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/what-is-an-index-fund/*/ (from https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/what-is-an-index-fund/)
+17:19:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/5-tips-to-handle-market-volatility/*/ (from https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/5-tips-to-handle-market-volatility/)
+17:19:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2024-03/*/ (from https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2024-03/)
+17:19:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/market-outlook/uk-in-focus/2024-03-28/*/ (from https://www.hsbc.co.uk/wealth/insights/market-outlook/uk-in-focus/2024-03-28/)
+17:19:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/market-outlook/uk-in-focus/2024-02/*/ (from https://www.hsbc.co.uk/wealth/insights/market-outlook/uk-in-focus/2024-02/)
+17:19:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/content/dam/hsbc/en/wealth/images/market-outlook/macro-monthly/148351-20240218/148351-0001.JPG (from https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2024-02/)
+17:19:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/content/dam/hsbc/en/wealth/images/market-outlook/macro-monthly/148351-20240218/148351-0002.JPG (from https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2024-02/)
+17:19:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/content/dam/hsbc/en/wealth/images/market-outlook/macro-monthly/148351-20240218/148351-0003.JPG (from https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2024-02/)
+17:19:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/content/dam/hsbc/en/wealth/images/market-outlook/macro-monthly/148351-20240218/148351-0004.JPG (from https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2024-02/)
+17:19:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/content/dam/hsbc/en/wealth/images/market-outlook/macro-monthly/148351-20240218/148351-0005.JPG (from https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2024-02/)
+17:19:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/content/dam/hsbc/en/wealth/images/market-outlook/macro-monthly/148351-20240218/148351-0006.JPG (from https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2024-02/)
+17:19:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2024-02/*/ (from https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2024-02/)
+17:19:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/content/dam/hsbc/en/docs/wealth-insights/market-outlook/macro-monthly/macro-monthly-feb-2024.pdf (from https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2024-02/)
+17:19:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/market-outlook/uk-in-focus/2023-12/ (from https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2024-02/)
+17:19:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2023-12/ (from https://www.hsbc.co.uk/wealth/insights/market-outlook/macro-monthly/2024-02/)
+17:19:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/esg/why-esg-matters/ice-cream-deliciously-sustainable/*/ (from https://www.hsbc.co.uk/wealth/insights/esg/why-esg-matters/ice-cream-deliciously-sustainable/)
+17:19:12	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/flash-2024-05-02/*/ (from https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/flash-2024-05-02/)
+17:19:16	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/2024-04-29/*/ (from https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/2024-04-29/)
+17:19:19	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/flash-2024-04-29/*/ (from https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/flash-2024-04-29/)
+17:19:20	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/2024-03-25/ (from https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-trends/2024-03/)
+17:19:20	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/flash-2024-03-21/ (from https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-trends/2024-03/)
+17:19:20	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/flash-2024-03-19/ (from https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-trends/2024-03/)
+17:19:20	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/market-outlook/uk-in-focus/2024-03/*/ (from https://www.hsbc.co.uk/wealth/insights/market-outlook/uk-in-focus/2024-03/)
+17:19:20	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/asset-class-views/investment-monthly/2024-02/ (from https://www.hsbc.co.uk/wealth/insights/market-outlook/investment-outlook/2023-11/)
+17:19:20	Warning: 	Moved Permanently for https://www.hsbc.co.uk/wealth/insights/learn-to-invest/invest-with-experts/
+17:19:20	Warning: 	File has moved from https://www.hsbc.co.uk/wealth/insights/learn-to-invest/invest-with-experts/ to /wealth/insights/
+17:19:20	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/learn-to-invest/invest-with-experts/more-ways-to-invest/why-indian-bonds-are-so-attractive/*/ (from https://www.hsbc.co.uk/wealth/insights/learn-to-invest/invest-with-experts/more-ways-to-invest/why-indian-bonds-are-so-attractive/)
+17:19:20	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/learn-to-invest/meet-life-goals/retirement/2023-03-24/*/ (from https://www.hsbc.co.uk/wealth/insights/learn-to-invest/meet-life-goals/retirement/2023-03-24/)
+17:19:20	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/2019-01-23/*/ (from https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/2019-01-23/)
+17:19:20	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/quality-bonds-as-a-diversifier-amid-market-downturn/*/ (from https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/quality-bonds-as-a-diversifier-amid-market-downturn/)
+17:19:20	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/2023-02-27/*/ (from https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/2023-02-27/)
+17:19:20	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/learn-to-invest/meet-life-goals/retirement/leaving-a-legacy/*/ (from https://www.hsbc.co.uk/wealth/insights/learn-to-invest/meet-life-goals/retirement/leaving-a-legacy/)
+17:19:23	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/savings/how-to-save-money-as-a-teenager/*/ (from https://www.hsbc.co.uk/savings/how-to-save-money-as-a-teenager/)
+17:19:25	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/why-home-insurance-is-important/*/ (from https://www.hsbc.co.uk/insurance/why-home-insurance-is-important/)
+17:19:25	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/do-you-need-home-insurance/*/ (from https://www.hsbc.co.uk/insurance/do-you-need-home-insurance/)
+17:19:25	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/insurance/motor-breakdown-insurance/*/ (from https://www.hsbc.co.uk/insurance/motor-breakdown-insurance/)
+17:19:25	Warning: 	Moved Permanently for https://www.hsbc.co.uk/help/coronavirus/managing-your-financial-health/
+17:19:25	Warning: 	File has moved from https://www.hsbc.co.uk/help/coronavirus/managing-your-financial-health/ to /financial-fitness/
+17:19:25	Warning: 	Moved Permanently for https://www.hsbc.co.uk/help/coronavirus/managing-debts/
+17:19:25	Warning: 	File has moved from https://www.hsbc.co.uk/help/coronavirus/managing-debts/ to /financial-fitness/managing-debt/
+17:19:26	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/savings/what-is-help-to-save/*/ (from https://www.hsbc.co.uk/savings/what-is-help-to-save/)
+17:19:26	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/what-is-universal-credit/*/ (from https://www.hsbc.co.uk/financial-fitness/what-is-universal-credit/)
+17:19:26	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/do-people-over-75-need-to-pay-for-a-tv-licence/*/ (from https://www.hsbc.co.uk/financial-fitness/do-people-over-75-need-to-pay-for-a-tv-licence/)
+17:19:28	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/5-ways-to-manage-your-money-through-winter/*/ (from https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/5-ways-to-manage-your-money-through-winter/)
+17:19:28	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/savings/saving-tips-how-time-can-mean-money/*/ (from https://www.hsbc.co.uk/savings/saving-tips-how-time-can-mean-money/)
+17:19:28	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/tax/what-you-need-to-know-before-the-end-of-the-tax-year/*/ (from https://www.hsbc.co.uk/tax/what-you-need-to-know-before-the-end-of-the-tax-year/)
+17:19:28	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/tax/what-is-a-self-assessment/*/ (from https://www.hsbc.co.uk/tax/what-is-a-self-assessment/)
+17:19:29	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/etc/designs/hsbc/cpi/clientlib-site/public/fonts/UniversNextforHSBCW01-LtIt.ttf (from https://www.hsbc.co.uk/etc/designs/hsbc/cpi/clientlib-site/v2_10_0.min.b7a46114cda5f91143902440c902c05f.css)
+17:19:33	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/online/bereavement/document.URL (from https://www.hsbc.co.uk/etc/designs/hsbc/dcc/cmn/clientlib-adrum.min.1fd6c529cb671a8f5c408943098a20cf.js)
+17:19:33	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/online/bereavement/b/ (from https://www.hsbc.co.uk/etc/designs/hsbc/dcc/cmn/clientlib-adrum.min.1fd6c529cb671a8f5c408943098a20cf.js)
+17:19:33	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/online/bereavement/this.Bf.url (from https://www.hsbc.co.uk/etc/designs/hsbc/dcc/cmn/clientlib-adrum.min.1fd6c529cb671a8f5c408943098a20cf.js)
+17:19:33	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/online/bereavement/Trident/ (from https://www.hsbc.co.uk/etc/designs/hsbc/dcc/cmn/clientlib-default/js/resources/angular/6_0_3/polyfills.min.80c378ad0fd2ea92cb3069cc8a7c6680.js)
+17:19:33	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/online/bereavement/Edge/ (from https://www.hsbc.co.uk/etc/designs/hsbc/dcc/cmn/clientlib-default/js/resources/angular/6_0_3/polyfills.min.80c378ad0fd2ea92cb3069cc8a7c6680.js)
+17:19:33	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/online/bereavement/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://www.hsbc.co.uk/etc/designs/hsbc/dcc/cmn/clientlib-default/js/resources/angular/6_0_3/vendor.min.80c378ad0fd2ea92cb3069cc8a7c6680.js)
+17:19:33	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/etc/designs/hsbc/dcc/bereavement-web/gb-hrfb/ (from https://www.hsbc.co.uk/etc/designs/hsbc/dcc/bereavement-web/gb-hrfb/main.min.v2_0_0.1692356072113.js)
+17:19:33	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/online/bereavement/In this configuration Angular requires Zone.js (from https://www.hsbc.co.uk/etc/designs/hsbc/dcc/bereavement-web/gb-hrfb/main.min.v2_0_0.1692356072113.js)
+17:19:33	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/online/bereavement/GET/ (from https://www.hsbc.co.uk/etc/designs/hsbc/dcc/bereavement-web/gb-hrfb/main.min.v2_0_0.1692356072113.js)
+17:19:33	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/online/bereavement/popper.js (from https://www.hsbc.co.uk/etc/designs/hsbc/dcc/cmn/dcc-cpi-foot-lib.min.94cdbbb57aeda1d46d4e38695d48eb29.js)
+17:19:33	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/online/bereavement/mustache.js (from https://www.hsbc.co.uk/etc/designs/hsbc/dcc/cmn/dcc-cpi-foot-lib.min.94cdbbb57aeda1d46d4e38695d48eb29.js)
+17:19:33	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/help/security-centre/how-to-avoid-romance-scams/*/ (from https://www.hsbc.co.uk/help/security-centre/how-to-avoid-romance-scams/)
+17:19:33	Warning: 	Moved Permanently for https://www.hsbc.co.uk/electric-vehicles/electric-vehicles-what-to-consider/
+17:19:33	Warning: 	File has moved from https://www.hsbc.co.uk/electric-vehicles/electric-vehicles-what-to-consider/ to /sustainability/electric-vehicles/electric-vehicles-what-to-consider/
+17:19:33	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/help/security-centre/what-is-remote-access-takeover/*/ (from https://www.hsbc.co.uk/help/security-centre/what-is-remote-access-takeover/)
+17:19:33	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/help/security-centre/how-to-avoid-vaccine-scams/*/ (from https://www.hsbc.co.uk/help/security-centre/how-to-avoid-vaccine-scams/)
+17:19:33	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/registration/%5e/ (from https://www.hsbc.co.uk/security/registration/^//)
+17:19:33	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/tax/changing-in-new-tax-year/*/ (from https://www.hsbc.co.uk/tax/changing-in-new-tax-year/)
+17:19:43	Warning: 	Moved Temporarily for https://www.hsbc.co.uk/content/hsbc/gb/en_gb/investments/products/global-investment-centre/
+17:19:43	Warning: 	File has moved from https://www.hsbc.co.uk/content/hsbc/gb/en_gb/investments/products/global-investment-centre/ to https://www.hsbc.co.uk/investments/products/global-investment-centre/
+17:19:43	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/content/dam/hsbc/gb/current-accounts/products/international/images/HSBC_UK_Different_Browser.png (from https://www.hsbc.co.uk/current-accounts/products/international/browser-not-supported/)
+17:19:43	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/tax/avoiding-tax-phishing-scams/*/ (from https://www.hsbc.co.uk/tax/avoiding-tax-phishing-scams/)
+17:19:49	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/how-to-create-a-christmas-budget/*/ (from https://www.hsbc.co.uk/financial-fitness/how-to-create-a-christmas-budget/)
+17:19:49	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/security/%5e/ (from https://www.hsbc.co.uk/security/^//)
+17:19:49	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/2024-04-22/*/ (from https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/2024-04-22/)
+17:19:49	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/2024-04-15/*/ (from https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/2024-04-15/)
+17:19:49	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/2024-04-08/*/ (from https://www.hsbc.co.uk/wealth/insights/fx-insights/fx-viewpoint/2024-04-08/)
+17:19:49	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/2024-01-25/*/ (from https://www.hsbc.co.uk/wealth/insights/learn-to-invest/start-investing/2024-01-25/)
+17:19:49	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/teaching-young-people-about-money/*/ (from https://www.hsbc.co.uk/financial-fitness/teaching-young-people-about-money/)
+17:19:49	Warning: 	Moved Permanently for https://www.hsbc.co.uk/help/coronavirus/how-is-coronavirus-impacting-buying-a-property/
+17:19:49	Warning: 	File has moved from https://www.hsbc.co.uk/help/coronavirus/how-is-coronavirus-impacting-buying-a-property/ to /mortgages/
+17:19:49	Warning: 	Moved Permanently for https://www.hsbc.co.uk/help/coronavirus/accessing-your-money/
+17:19:49	Warning: 	File has moved from https://www.hsbc.co.uk/help/coronavirus/accessing-your-money/ to /ways-to-bank/
+17:19:49	Warning: 	Moved Permanently for https://www.hsbc.co.uk/help/coronavirus/managing-your-pension/
+17:19:49	Warning: 	File has moved from https://www.hsbc.co.uk/help/coronavirus/managing-your-pension/ to /retirement/
+17:19:49	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/how-to-get-ready-for-black-friday/*/ (from https://www.hsbc.co.uk/financial-fitness/how-to-get-ready-for-black-friday/)
+17:19:49	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/get-financially-fit-new-year/*/ (from https://www.hsbc.co.uk/financial-fitness/get-financially-fit-new-year/)
+17:19:49	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/help/security-centre/how-to-shop-safely-at-christmas/*/ (from https://www.hsbc.co.uk/help/security-centre/how-to-shop-safely-at-christmas/)
+17:19:50	Error: 	"Not Found" (404) at link https://www.hsbc.co.uk/financial-fitness/how-to-avoid-a-new-year-debt-hangover/*/ (from https://www.hsbc.co.uk/financial-fitness/how-to-avoid-a-new-year-debt-hangover/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 44 minutes 11 seconds : 4236 links scanned, 3745 files written (760134097 bytes overall) [590043933 bytes received at 222574 bytes/sec], 506563995 bytes transferred using HTTP compression in 2230 files, ratio 52%, 48.3 requests per connection
+(401 errors, 199 warnings, 0 messages)

@@ -1,0 +1,203 @@
+div#dspRegistration-v3 {
+  margin: 10px;
+}
+
+div#dspRegistration-v3 .applicationThemeStylingCss {
+  height: 35rem;
+}
+div#dspRegistration-v3 .regVerifyIdentityHubBRCCode-css {
+  display: none;
+}
+div#dspRegistration-v3 #hubErrorsContentV3 .coral-Collapsible-content .coral-Form-fieldwrapper {
+  width: 92%;
+  display: block;
+}
+div#dspRegistration-v3 .coral-TabPanel-content {
+  border: 1px solid;
+}
+#dspRegVerifyIdentity .coral-Collapsible,
+#dspRegSMSVerification .coral-Collapsible,
+#dspRegSetupLogonInformation .coral-Collapsible,
+#dspRegSetupSecurityQuestion .coral-Collapsible,
+#dspRegTermsAndCondition .coral-Collapsible,
+#dspRegConfirmation .coral-Collapsible,
+#dspRegOtpChannelChangeInDetailsOverlay .coral-Collapsible,
+#dspRegOtpChannelChangeInDetailsOverlay.coral-Collapsible,
+#dspRegErrorLockPages .coral-Collapsible,
+#dspRegConfiguration .coral-Collapsible {
+  margin: 15px 0;
+  border: 1px solid;
+}
+
+#dspRegVerifyIdentity .coral-Checkbox-description {
+  font-size: 17px
+}
+
+form.cq-dialog-fullscreen #genericKeys .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #dspRegConfiguration .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #registrationConfigGloablPapiSupported .coral-Form-fieldwrapper:first-child {
+  display: inline-block;
+  width: 20%;
+  margin-right: 2%
+}
+
+form.cq-dialog-fullscreen #regCustomizedVerifyIdentitySelected .coral-Form-fieldwrapper {
+  display: inline-block;
+  width: 22%;
+  margin-right: 2%
+}
+
+form.cq-dialog-fullscreen #regCustomizedVerifyIdentitySelected .coral-Form-fieldwrapper.compField {
+  display: inline-block;
+  width: 16%;
+  margin-right: 1%;
+}
+form.cq-dialog-fullscreen #regCustomizedVerifyIdentitySelected .coral-Form-fieldwrapper.compField:first-child,
+form.cq-dialog-fullscreen #regCustomizedVerifyIdentitySelected .coral-Form-fieldwrapper.compField:nth-child(2) {
+  display: inline-block;
+  width: 10%;
+}
+
+form.cq-dialog-fullscreen #verifyIdentityAccessibility .coral-Form-fieldwrapper:last-child,
+form.cq-dialog-fullscreen #sectionNotHeldMobile .coral-Form-fieldwrapper:last-child,
+form.cq-dialog-fullscreen #sectionTechnicalError .coral-Form-fieldwrapper:last-child,
+form.cq-dialog-fullscreen #dspRegistration-v3 .coral-Form-fieldwrapper.display-in-full-textarea,
+form.cq-dialog-fullscreen #sectionUnrecognizedBrowser .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #sectionSessionTimeoutError .coral-Form-fieldwrapper:last-child,
+form.cq-dialog-fullscreen #sectionWrongCodeError .coral-Form-fieldwrapper:last-child,
+form.cq-dialog-fullscreen #sectionSimSwapError .coral-Form-fieldwrapper:last-child,
+form.cq-dialog-fullscreen #sectionTooManyCodeError .coral-Form-fieldwrapper:last-child,
+form.cq-dialog-fullscreen #sectionCancelRegistration .coral-Form-fieldwrapper:last-child,
+form.cq-dialog-fullscreen #sectionRegPermanentLockError .coral-Form-fieldwrapper:last-child,
+form.cq-dialog-fullscreen #sectionRegAlreadyRegistered .coral-Form-fieldwrapper:last-child,
+form.cq-dialog-fullscreen #sectionSanctionedCountries .coral-Form-fieldwrapper:last-child,
+form.cq-dialog-fullscreen #dspRegConfirmation .coral-Form-fieldwrapper:last-child,
+form.cq-dialog-fullscreen #sectionReqBodyEncryptionConfig .coral-Form-fieldwrapper:last-child,
+form.cq-dialog-fullscreen #disableRightClicksConfigHasSelected .coral-Form-fieldwrapper:last-child,
+form.cq-dialog-fullscreen #dspRegConfiguration .coral-Form-fieldwrapper.coral-Form-fieldwrapper--singleline,
+form.cq-dialog-fullscreen #dspRegTermsAndCondition .coral-Form-fieldwrapper.coral-Form-fieldwrapper--singleline,
+form.cq-dialog-fullscreen #dspRegTermsAndConditionOverlay .coral-Form-fieldwrapper:last-child,
+form.cq-dialog-fullscreen #applicationThemeSelected .coral-Form-fieldwrapper:last-child,
+form.cq-dialog-fullscreen #dspRegVerifyIdentity .coral-Form-fieldwrapper.coral-Form-fieldwrapper--singleline,
+form.cq-dialog-fullscreen #registrationConfigGloablPapiSupported .coral-Form-fieldwrapper {
+  display: block;
+  width: 92%;
+}
+
+form.cq-dialog-fullscreen #dspRegSetupLogonInformation .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #regIdentityCardConfigCreditSelected .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #regCustomerSoleConfigSelected .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #verifyIdentityAccessibility .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #sectionNotHeldMobile .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #sectionRegPermanentLockError .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #sectionRegAlreadyRegistered .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #dspRegSMSVerificationAccessibility .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #sectionTechnicalError .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #sectionSessionTimeoutError .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #sectionWrongCodeError .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #sectionTooManyCodeError .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #sectionSimSwapError .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #sectionCancelRegistration .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #dspRegErrorLockPagesAccessibility .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #regIdentityCardConfigATMLabelIssueNoSelected .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #regIdentityCardConfigDebitLabelIssueNoSelected .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #regIdentityCardConfigDebitSelected .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #regIdentityCardConfigPBNSelected .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #regIdentityCardConfigATMSelected .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #sectionSanctionedCountries .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #regIdentityDOBConfigSelected .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #regIdentityEmailAddressConfigSelected .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #regIdentityIDConfigBANSelected .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #regIdentityIDConfigCSNSelected .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #regIdentityMobileNoConfigSelected .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #regIdentityNameConfigSelected .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #dspRegSMSVerification .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #dspRegSetupSecurityQuestion .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #dspRegConfirmation .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #sectionReCaptchaConfig .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #sectionReqBodyEncryptionConfig .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #sectionAPIEndpointConfig .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #sectionAPIEndpointV1ConfigSelected .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #sectionAPIEndpointV1Config .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #sectionExpiredCodeError .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #dspRegTermsAndCondition .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #dspRegOtpChannel .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #dspRegVerifyIdentity .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #dspRegSMSVerificationNoCodeOverlay .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #dspRegSMSVerificationWhatIsVerificationCode .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #bannerConfig .coral-Form-fieldwrapper,
+form.cq-dialog-fullscreen #registrationConfigPinEncryptionDetails .coral-Form-fieldwrapper {
+  display: inline-block;
+  width: 45%;
+  margin-right: 2%;
+  vertical-align: top;
+}
+
+form.cq-dialog-fullscreen #genericKeys > .coral-Collapsible-content #regBannerSelected .coral-Form-fieldwrapper {
+  display: inline-block;
+  width: 100%;
+  margin-right: 2%;
+  vertical-align: top;
+}
+
+table#bcr-code-table {
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-collapse: collapse;
+}
+table#bcr-code-table table, th, td{
+  border: 1px solid #DDD;
+  text-align: left;
+  padding:10px;
+}
+table#bcr-code-table table, th {
+  background-color: #414141;
+  color: #FFF;
+}
+table#bcr-code-table table th, table td{
+  padding: 10px;
+  text-align: left;
+}
+#myInput {
+  width: 50%; /* Full-width */
+  font-size: 16px; /* Increase font-size */
+  padding: 12px 20px 12px 40px; /* Add some padding */
+  border: 1px solid #ddd; /* Add a grey border */
+  margin-bottom: 12px; /* Add some space below the input */
+  margin-top: 15px;
+}
+
+#regCustomizedVerifyIdentitySelected .coral-Collapsible-content .table-buttons{
+  margin-top: 27px;
+  min-width: 1rem;
+}
+
+.hide-content {
+  display: none !important;
+}
+
+.error-css{
+  border: 1px solid #D22B2B;
+}
+
+
+form.cq-dialog-fullscreen #regCustomizedVerifyIdentitySelected .coral-Form-fieldwrapper.input-area {
+  display: inline-block;
+  width: 100%;
+  margin-right: 2%
+}
+
+form.cq-dialog-fullscreen #regCustomizedVerifyIdentitySelected .coral-Form-fieldwrapper .highlight {
+  background-color: #FAA0A0;
+}
+
+form.cq-dialog-fullscreen #regCustomizedVerifyIdentitySelected .btn-primary{
+  background: #008CBA;
+  color: white;
+}
+
+form.cq-dialog-fullscreen #regCustomizedVerifyIdentitySelected .btn-danger{
+  background: #f44336;
+  color: white;
+}

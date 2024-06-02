@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg x="0px"
+	 y="0px" viewBox="0 0 18 18" style="enable-background:new 0 0 12 9;" xml:space="preserve" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>System icons/ Security arrow right small</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Medium-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="M_Login_TokenMigation_1.0_SecureCode" transform="translate(-198.000000, -572.000000)" fill="#333333" fill-rule="nonzero">
+            <g id="Group-5">
+                <g id="Group-4" transform="translate(141.000000, 90.000000)">
+                    <g id="Cont.-Info-RS:1-(Resp)" transform="translate(0.000000, 445.000000)">
+                        <g id="Notification/Contextual/RScale:1-(BP:320+)/Information">
+                            <g id="Group-3" transform="translate(30.000000, 30.000000)">
+                                <polygon id="arrow_right_small" points="34 7 39 11.5 34 16 34 12 27 12 27 11 34 11"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

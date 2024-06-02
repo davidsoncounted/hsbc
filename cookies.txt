@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.hsbc.co.uk	TRUE	/	FALSE	1999999999	ADRUM_BTs	R:55|s:f
+www.hsbc.co.uk	TRUE	/	FALSE	1999999999	ADRUM_BTa	R:34|g:c42ca59f-d2b9-4250-b75a-a4465c7a8968|n:hsbc1_ad09af62-f30b-48cc-9993-42273656cbfc
+www.hsbc.co.uk	TRUE	/	FALSE	1999999999	SameSite	None
+www.hsbc.co.uk	TRUE	/	FALSE	1999999999	ADRUM_BT1	R:34|i:8565853|e:95
+www.hsbc.co.uk	TRUE	/	FALSE	1999999999	UKPIB-COOKIE	4019571466.6777.0000
+www.hsbc.co.uk	TRUE	/	FALSE	1999999999	TS01561204	013f1c45387a629c3e527abeeed791f039fcdd74619f86532c669f74a49b76148662d73341f253572011bf746a9fabd57f2f1d5ca3
+
